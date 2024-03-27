@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, #5f5896, #4f92dd);
+    color: #000000;
+    text-align: center;
+    padding: 30px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #070000;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #fff;
+}
